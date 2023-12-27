@@ -1,0 +1,9 @@
+
+POST http://localhost:3000/registration HTTP/1.1
+content-type: application/json
+
+{
+    "fio": "Мурзалин Тимур",
+    "username": "coldsinurpillow",
+    "password": "12345678"
+}
